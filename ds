@@ -23,6 +23,6 @@ end
 onSelected(game.Players.LocalPlayer:GetMouse())
 game.StarterGui:SetCore("SendNotification",{
 			Title = "Speed Enabled";
-			Text = "Jared - pro😈";
+			Text = "Jared - pro";
 			Duration = 0.20;
 		})
